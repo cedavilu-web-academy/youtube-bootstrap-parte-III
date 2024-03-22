@@ -1,4 +1,4 @@
-<h1>Carpeta con todo el código trabajado en el video - Parte II.</h1>
+<h1>Carpeta con todo el código trabajado en el video - Parte III.</h1>
 <h2>Creada por medio del Framework Bootstrap</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
